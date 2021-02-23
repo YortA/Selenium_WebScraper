@@ -1,0 +1,9 @@
+C:\PROJECTS\VS Projects\ScrapeNETWebApp\ScrapeNETAccessLib\bin\Debug\netstandard2.0\ScrapeNETAccessLib.deps.json
+C:\PROJECTS\VS Projects\ScrapeNETWebApp\ScrapeNETAccessLib\bin\Debug\netstandard2.0\ScrapeNETAccessLib.dll
+C:\PROJECTS\VS Projects\ScrapeNETWebApp\ScrapeNETAccessLib\bin\Debug\netstandard2.0\ScrapeNETAccessLib.pdb
+C:\PROJECTS\VS Projects\ScrapeNETWebApp\ScrapeNETAccessLib\obj\Debug\netstandard2.0\ScrapeNETAccessLib.csprojAssemblyReference.cache
+C:\PROJECTS\VS Projects\ScrapeNETWebApp\ScrapeNETAccessLib\obj\Debug\netstandard2.0\ScrapeNETAccessLib.AssemblyInfoInputs.cache
+C:\PROJECTS\VS Projects\ScrapeNETWebApp\ScrapeNETAccessLib\obj\Debug\netstandard2.0\ScrapeNETAccessLib.AssemblyInfo.cs
+C:\PROJECTS\VS Projects\ScrapeNETWebApp\ScrapeNETAccessLib\obj\Debug\netstandard2.0\ScrapeNETAccessLib.csproj.CoreCompileInputs.cache
+C:\PROJECTS\VS Projects\ScrapeNETWebApp\ScrapeNETAccessLib\obj\Debug\netstandard2.0\ScrapeNETAccessLib.dll
+C:\PROJECTS\VS Projects\ScrapeNETWebApp\ScrapeNETAccessLib\obj\Debug\netstandard2.0\ScrapeNETAccessLib.pdb
